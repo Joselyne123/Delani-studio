@@ -1,4 +1,4 @@
-# personal portfolio
+# DELANI STUDIO
 ### by: INGABIRE Joselyne
 
 ## DESCRIPTION
