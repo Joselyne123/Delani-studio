@@ -144,3 +144,56 @@ body {
         background-color: #ffffcc;
         position: relative;
     }
+    .portimg{
+        background: rgba(0, 0, 0, 0.7);
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        opacity: 1;
+        display: none;
+    }
+    
+    .porttext {
+        position: absolute;
+        opacity: 1;
+        -webkit-transform: translate(-50%, -50%);
+        -moz-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        top: 50%;
+        left: 50%;
+        display: none;
+        border: 1px solid white;
+        padding: 20px 0;
+    } 
+    .porttext p {
+        color: white;
+    }
+    .fix{
+        background: rgba(0, 0, 0, 0.7);
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        opacity: 1;
+        display: none;
+    }
+    
+    .nana{
+        position: absolute;
+        opacity: 1;
+        -webkit-transform: translate(-50%, -50%);
+        -moz-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        top: 50%;
+        left: 50%;
+        display: none;
+        border: 1px solid white;
+        padding: 20px 0;
+    } 
