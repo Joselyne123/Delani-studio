@@ -65,3 +65,16 @@ body {
         transform: translate(-50%);
     
     }
+    ::placeholder{
+        font-size: 10px;
+        color: white;
+    }
+    #contact h1{
+        color: white;
+    }
+    .con {
+        padding-bottom: 30px;
+    }
+    #producttxt,#devtxt,#designtxt{
+        display: none;
+    }
