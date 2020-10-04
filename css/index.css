@@ -321,4 +321,106 @@ body {
         opacity: 1;
         display: none;
     }
+    .ci{
+        position: absolute;
+        opacity: 1;
+        -webkit-transform: translate(-50%, -50%);
+        -moz-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        top: 50%;
+        left: 50%;
+        display: none;
+        border: 1px solid white;
+        padding: 20px 0;
+    } 
+    .ci p {
+        color: white;
+    }
+    
+    .va{
+        background: rgba(0, 0, 0, 0.7);
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        opacity: 1;
+        display: none;
+    }
+    
+    .v{
+        position: absolute;
+        opacity: 1;
+        -webkit-transform: translate(-50%, -50%);
+        -moz-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        top: 50%;
+        left: 50%;
+        display: none;
+        border: 1px solid white;
+        padding: 20px 0;
+    } 
+    .v p {
+        color: white;
+    }
+    
+    .gi{
+        background: rgba(0, 0, 0, 0.7);
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        opacity: 1;
+        display: none;
+    }
+    
+    .g{
+        position: absolute;
+        opacity: 1;
+        -webkit-transform: translate(-50%, -50%);
+        -moz-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        top: 50%;
+        left: 50%;
+        display: none;
+        border: 1px solid white;
+        padding: 20px 0;
+    } 
+    .g p {
+        color: white;
+    }
+    
+    .la{
+        background: rgba(0, 0, 0, 0.7);
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        opacity: 1;
+        display: none;
+    }
+    
+    .l{
+        position: absolute;
+        opacity: 1;
+        -webkit-transform: translate(-50%, -50%);
+        -moz-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        top: 50%;
+        left: 50%;
+        display: none;
+        border: 1px solid white;
+        padding: 20px 0;
+    } 
+    .l p {
+        color: white;
+    }
     
