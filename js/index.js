@@ -71,3 +71,37 @@ $(document).ready(function () {
        $('.ki').hide();
   })
 });
+$(document).ready(function () {
+    $('.coco').mouseover(function () {
+         $('.co').show();
+         $('.ci').show();
+    })
+  
+    $('.coco').mouseout(function () {
+         $('.co').hide();
+         $('.ci').hide();
+    })
+  });
+  $(document).ready(function () {
+    $('.vava').mouseover(function () {
+         $('.va').show();
+         $('.v').show();
+    })
+  
+    $('.vava').mouseout(function () {
+         $('.va').hide();
+         $('.v').hide();
+    })
+  });
+  
+  $(document).ready(function () {
+    $('.lala').mouseover(function () {
+         $('.la').show();
+         $('.l').show();
+    })
+  
+    $('.lala').mouseout(function () {
+         $('.la').hide();
+         $('.l').hide();
+    })
+  });
