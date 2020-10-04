@@ -32,4 +32,17 @@ body {
         top: 10vh;
         
     }
+    .portfolio{
+        margin-top: 20vh;
+    }
+    .portfolio img{
+        width: 250px;
+        padding-top:10px ;
+    }
+    #contact {
+        background-image: url('assets/c_image.jpg');
+        background-size: cover;
+        background-position: cover;
+        margin-top: 50px;
+    }
     
