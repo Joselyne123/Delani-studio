@@ -105,3 +105,17 @@ $(document).ready(function () {
          $('.l').hide();
     })
   });
+  $(document).ready(function(){
+    $("form").submit(function (event) {
+  var inputName = $("#name").val();
+  var inputEmail = $("#email").val();
+  var x = $("mess").val();
+  if (inputName == "" || inputEmail == "" || x == "") {
+    alert("invalid input");
+  }
+  else {
+    alert('Hi  ' +  inputName + ' Thank you for reaching out to us.');
+  }
+  event.preventDefault();
+  });
+  });
