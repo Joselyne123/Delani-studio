@@ -5,3 +5,15 @@ body {
   .mouse{
       margin-top:10vh;
   }
+  .profile{
+    background-image: url("assets/h_img.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.my_description{
+    margin-top: 30vh;
+    position: absolute;
+    left: 25vh;
+    color: white;
+}
